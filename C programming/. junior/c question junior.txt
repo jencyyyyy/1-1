@@ -1,0 +1,5 @@
+Write a C program to determine the frequency of words and characters in a file named input.txt and write the outputs into another file named output.txt.
+
+How can you extend memory allocation during execution of a program?
+
+What is the relation between pointer and single-dimension array?

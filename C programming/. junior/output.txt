@@ -1,0 +1,4 @@
+
+ The number of words in the  file input.txt are : 9
+ The number of characters in the  file input.txt are : 27
+

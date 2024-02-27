@@ -1,0 +1,8 @@
+WinBGIm file  :-   https://www.datafilehost.com/d/d6eb982c
+
+
+
+linker code-      -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
+
+file extension : filename.cpp
